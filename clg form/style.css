@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+h1{
+  font-family: 'Courgette', cursive;
+}
+h2{
+  font-family: 'Courgette', cursive;
+}
+body{
+  font-family: 'Courgette', cursive;
+}
+body{
+  background: rgb(86,195,34);
+  background: radial-gradient(circle, rgba(86,195,34,1) 0%, rgba(22,183,81,1) 64%, rgba(253,187,45,1) 100%);
+}
+input:focus{
+  background-color: yellow;
+}
+
+
+  h2{
+    padding-top: 100px;
+  }
